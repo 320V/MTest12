@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Açılardan Şekiller",
+    "short_name": "MEB - Açılardan Şekiller",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#804707",
+    "theme_color": "#000",
+    "description": "Açılardan Şekiller",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
